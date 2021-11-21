@@ -1,8 +1,8 @@
 # String to Datetime
 
-Good AI morning, Islanders. So sit back, relax with your favorite snack and let's get started! Today, I will show you how to take a string and convert it to DateTime so that your artificial intelligence models can probably understand the column.
+  Good AI morning, Islanders. Today, I will show you how to take a string and convert it to DateTime so that your artificial intelligence models can probably understand the column.So sit back, relax with your favorite snack and let's get started!
 
-Welcome to another excellent tutorial, where today I will be showing you all this fantastic dataset. I believe this dataset is incredible due to two of the columns. These two columns have two different types of potential date-time columns. Making these necessary corrections will seem intimidating at first, but don't worry. This tutorial will help create artificial intelligence more accessible. For you Islanders who are new, my name is William Mckeon. I started my college carer as an electrical engineer student who struggled a lot in my electrical engineering courses. Somehow during that struggle, I managed to teach myself how to program in python and eventually develop Artificial intelligence models. Inevitably I changed majors turning to the dark side of computer science.
+  Welcome to another excellent tutorial, where today I will be showing you all this fantastic dataset. I believe this dataset is incredible due to two of the columns. These two columns have two different types of potential date-time columns. Making these necessary corrections will seem intimidating at first, but don't worry. This tutorial will help create artificial intelligence more accessible. For you Islanders who are new, my name is William Mckeon. I started my college carer as an electrical engineer student who struggled a lot in my electrical engineering courses. Somehow during that struggle, I managed to teach myself how to program in python and eventually develop Artificial intelligence models. Inevitably I changed majors turning to the dark side of computer science.
 
 ## The packages and dataset we will be using
 
